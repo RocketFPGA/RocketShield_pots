@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RocketShield_pots.PcbDoc]
+   Generated File[RocketShield_pots.TXT]
+   Generated File[RocketShield_pots-RectHoles.TXT]
+   Generated File[RocketShield_pots.LDP]
+   Generated File[RocketShield_pots.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:52:18 On 29/06/2020

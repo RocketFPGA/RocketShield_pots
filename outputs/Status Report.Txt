@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 18:47:37 On 25/06/2020
+Start Output Generation At 20:28:49 On 04/07/2020
 
 Output: BOM
 Type  : BOM
@@ -12,4 +12,4 @@ From  : Variant [[No Variations]] of Project [RocketShield_pots.PrjPcb]
 Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 18:47:38 On 25/06/2020
+Finished Output Generation At 20:28:50 On 04/07/2020
